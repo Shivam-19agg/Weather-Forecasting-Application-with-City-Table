@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row:hover{
+    @apply border-slate-900 font-bold scale-100 text-neutral-800;
+}
+
+th{
+    background-color: white !important;
+}
+
+tr:nth-child(even){
+    background-color: white;
+}
+
+tr:nth-child(odd){
+   background-color:rgb(182, 182, 182);
+}
