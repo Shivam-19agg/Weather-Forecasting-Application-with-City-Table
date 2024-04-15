@@ -1,3 +1,8 @@
+#How to Run Application 
+1. Clone Repo in your local system.
+2. "npm install" in your terminal to install all the included packages in the package.json file.
+3. "npm run start" to start the local server in your system to run the application.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
